@@ -1,4 +1,4 @@
-# calculator
+# Etch-A-Sketch
 ⚠️ This is part of TheOdinProject, that helps me learn Web Development⚠️  
   
 🧮Goal of this project: Create an Etch-A-Sketch like website🧮  
